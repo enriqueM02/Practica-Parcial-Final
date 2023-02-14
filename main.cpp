@@ -6,8 +6,8 @@ using namespace std;
 int main(){
 
     
-    //Omar Menjivar
-    
+    //Omar Menjivar.
+
 
     return 0;
 }
